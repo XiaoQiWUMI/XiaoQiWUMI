@@ -19,9 +19,10 @@
 Python · PyCharm · VS Code · Git · txt · vim · Markdown·and so on.....
 
 ### Find Me~_^
+- E-mail:401817506@qq.com
+- X: @XiaoQi94WUMI
 - 微信: Umi620_wumi
 - QQ: 3565502112
-- X: @XiaoQi94WUMI
 
 > Code at ease, live in a gentle way ~
 </div>
