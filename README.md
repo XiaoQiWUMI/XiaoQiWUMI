@@ -1,6 +1,12 @@
 
-<img src="https://github.com/XiaoQiWUMI/XiaoQiWUMI/blob/main/XiaoQibiz.gif?raw=true" width="100%" style="position: fixed; top: 0; left: 0; z-index: -1; opacity: 0.25;">
-
+<div style="
+  background: url('https://raw.githubusercontent.com/XiaoQiWUMI/XiaoQiWUMI/main/XiaoQibiz.gif') no-repeat center center fixed;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh;
+  padding: 20px;
+  color: #ffffff;
+">
 # Hi there, I'm XiaoQi「小祁」^_^
 
 ### About Me
@@ -18,3 +24,4 @@ Python · PyCharm · VS Code · Git · txt · vim · Markdown·and so on.....
 - X: @XiaoQi94WUMI
 
 > Code at ease, live in a gentle way ~
+</div>
