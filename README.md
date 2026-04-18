@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm XiaoQi^_^
 
-<!--
-**XiaoQiWUMI/XiaoQiWUMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 平时会写写代码，什么都稍微沾一点点边啦 (●°u°●)​ 」
+- 主要在用 Python，偶尔也会看看别的东西喵~
+- 不太会说很厉害的，但很欢迎来找我聊天哦♪───Ｏ（≧∇≦）Ｏ────♪
+- 不管是技术还是日常都可以，看到都会认真回哒 ^-^
 
-Here are some ideas to get you started:
+### Tech Stack
+Python · PyCharm · VS Code · Git · txt · vim · Markdown·and so on.....
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find Me~_^
+- 微信: Umi620_wumi
+- QQ: 3565502112
+- X: @XiaoQi94WUMI
+
+> Code at ease, live in a gentle way ~
