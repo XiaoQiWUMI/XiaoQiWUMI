@@ -1,4 +1,4 @@
-# Hi there, I'm XiaoQi^_^
+# Hi there, I'm XiaoQi「小祁」^_^
 
 ### About Me
 - 平时会写写代码，什么都稍微沾一点点边啦 (●°u°●)​ 」
