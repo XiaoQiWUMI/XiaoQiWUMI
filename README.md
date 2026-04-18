@@ -1,4 +1,5 @@
-<img src="XiaoQibizGif.gif" width="100%" style="position: fixed; top: 0; left: 0; z-index: -1; opacity: 0.25;">
+
+<img src="https://github.com/XiaoQiWUMI/XiaoQiWUMI/blob/main/XiaoQibiz.gif?raw=true" width="100%" style="position: fixed; top: 0; left: 0; z-index: -1; opacity: 0.25;">
 
 # Hi there, I'm XiaoQi「小祁」^_^
 
