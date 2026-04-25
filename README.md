@@ -25,6 +25,8 @@
 
 - About my socials: I'm not very good at bragging, but you're very welcome to chat with me Whether it's about technology or daily life, I'll reply seriously when I see.
 
+-！！ My language usage is shown in the pie chart on the right.
+
 <img src="img/a84b298cb86ff8a3b9cc6ca0875bc650.png" align="right" width="290" />
 <br/>
 <br/>
