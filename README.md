@@ -31,6 +31,8 @@
 <img src="img/199a2b6d0812ee0a60d1bd3a99a8f247.png" width="488" />
 <br/>
 <br/>
+
+<h1>Here is an interesting story about one of my friends.^_^</h1>  
   
 <!-- BLOG_RSS_START -->
 - 🦋 [***DawgCTF 2026 - I Hate Physics! - Cryptography Writeup***](https://blog.rei.my.id/posts/139/dawgctf-2026-i-hate-physics-cryptography-writeup/)
