@@ -28,7 +28,7 @@
 <img src="./img/top-langs.svg" align=right />
 <br/>
 <br/>
-<img src="./img/mid_archive.png" width="488" />
+<img src="img/199a2b6d0812ee0a60d1bd3a99a8f247.png" width="488" />
 <br/>
 <br/>
   
