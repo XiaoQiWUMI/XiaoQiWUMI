@@ -42,7 +42,7 @@
 <!-- BLOG_RSS_END -->
 <img src="img/1ae7e7d8aebf35a5907f735ab00adc42.png" width="270" align="right" />
 <br/>
-<img src="./img/mid_banner.png" width="500" /><br/>
+<img src="img/8aac9cba43d26fc93bd38158f016169e.png" width="500" /><br/>
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : 401817506@qq.com</sub>
 <br/><br/>
 <p align='center'>
