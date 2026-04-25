@@ -2,7 +2,7 @@
 <div>  
 <img width="337" src="img/xiaoqitoxiamn.jpg" align=right />
 <br/>
-<img src="./img/top_about.png" width="488" />
+<img src="img/360314041b2653600c3b72af905dc65d.png" width="488" />
 <br/>
 <br/>
 <br/>
