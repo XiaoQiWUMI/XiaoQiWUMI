@@ -19,7 +19,7 @@
 
 - Currently: **I mainly use Python, and sometimes also look into other technologies ~miao~**.
 
-- Also: Vice-President of [@linuxuigm](https://github.com/linuxuigm), **GNU/Linux** Enthusiast.
+- Also:[@linuxuigm](https://github.com/linuxuigm), **GNU/Linux** Enthusiast，Cybersecurity Director at Yexi Network Technology.
 
 - Tech Stack:Python · PyCharm · VS Code · Git · txt · Vim · Markdown·and so on……
 
