@@ -48,5 +48,5 @@
 <p align='center'>
 <a href="#"><img src="https://img.shields.io/badge/%23-4b0f08?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-4b0f08?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-4b0f08?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-4b0f08?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-4b0f08?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-4b0f08?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-4b0f08?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-4b0f08?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-4b0f08?style=for-the-badge"/></a>
 </p>
-<img src="./img/bottom_banner.png" width="100%" align="center" />
+<img src="img/XiaoQi2.jpg" width="100%" align="center" />
 </div>
