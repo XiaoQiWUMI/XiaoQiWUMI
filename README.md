@@ -40,7 +40,7 @@
 - 🦋 [***TexSAW 2026 - You Snoze You Loze - OSINT Writeup***](https://blog.rei.my.id/posts/119/texsaw-2026-you-snoze-you-loze-osint-writeup/)
 - 🦋 [***TexSAW 2026 - A Different Side Channel - Forensics Writeup***](https://blog.rei.my.id/posts/120/texsaw-2026-a-different-side-channel-forensics-writeup/)
 <!-- BLOG_RSS_END -->
-<img src="./img/mid_profile.png" width="270" align="right" />
+<img src="img/1ae7e7d8aebf35a5907f735ab00adc42.png" width="270" align="right" />
 <br/>
 <img src="./img/mid_banner.png" width="500" /><br/>
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : 401817506@qq.com</sub>
