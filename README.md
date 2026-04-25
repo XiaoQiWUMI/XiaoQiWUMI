@@ -34,6 +34,15 @@
 <br/>
 <br/>
 
+  <h3>Contact me in China~♪（≧∇≦）</h3>  
+<ul>    
+<li>E-mail:401817506@qq.com</li>    
+<li>X: @XiaoQi94WUMI</li>    
+<li>微信: Umi620_wumi</li>    
+<li>QQ: 3565502112</li>  
+</ul>
+
+
 <h1>Here is an interesting story about one of my friends.^_^</h1>  
   
 <!-- BLOG_RSS_START -->
