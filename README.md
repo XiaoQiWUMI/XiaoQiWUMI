@@ -44,19 +44,22 @@
 
 
 <h1>Here is an interesting story about one of my friends.^_^</h1>  
-  
+
 <!-- BLOG_RSS_START -->
-- 🎐 [***DawgCTF 2026 - I Hate Physics! - Cryptography Writeup***](https://blog.rei.my.id/posts/139/dawgctf-2026-i-hate-physics-cryptography-writeup/)
-- 🎐 [***DawgCTF 2026 - Machine Learnding - Reverse Engineering Writeup***](https://blog.rei.my.id/posts/140/dawgctf-2026-machine-learnding-reverse-engineering-writeup/)
-- 🎐 [***DawgCTF 2026 - Locksmith - OSINT Writeup***](https://blog.rei.my.id/posts/142/dawgctf-2026-locksmith-osint-writeup/)
-- 🎐 [***DawgCTF 2026 - owo? - OSINT Writeup***](https://blog.rei.my.id/posts/143/dawgctf-2026-owo-osint-writeup/)
-- 🎐 [***DawgCTF 2026 - Computer Repair III - OSINT Writeup***](https://blog.rei.my.id/posts/141/dawgctf-2026-computer-repair-iii-osint-writeup/)
-- 🎐 [***DawgCTF 2026 - The Lookout's Legend - OSINT Writeup***](https://blog.rei.my.id/posts/144/dawgctf-2026-the-lookouts-legend-osint-writeup/)
-- 🎐 [***DawgCTF 2026 - Plane Spotting Pt. 1 - OSINT Writeup***](https://blog.rei.my.id/posts/145/dawgctf-2026-plane-spotting-pt-1-osint-writeup/)
-- 🎐 [***DawgCTF 2026 - Plane Spotting Pt. 3 - OSINT Writeup***](https://blog.rei.my.id/posts/146/dawgctf-2026-plane-spotting-pt-3-osint-writeup/)
-- 🎐 [***TexSAW 2026 - You Snoze You Loze - OSINT Writeup***](https://blog.rei.my.id/posts/119/texsaw-2026-you-snoze-you-loze-osint-writeup/)
-- 🎐 [***TexSAW 2026 - A Different Side Channel - Forensics Writeup***](https://blog.rei.my.id/posts/120/texsaw-2026-a-different-side-channel-forensics-writeup/)
+<ul>
+  <li>🎐<a href="https://blog.rei.my.id/posts/139/dawgctf-2026-i-hate-physics-cryptography-writeup/"><em><strong>DawgCTF 2026 - I Hate Physics! - Cryptography Writeup</strong></em></a></li>
+  <li>🎐 <a href="https://blog.rei.my.id/posts/140/dawgctf-2026-machine-learning-reverse-engineering-writeup/"><em><strong>DawgCTF 2026 - Machine Learning - Reverse Engineering Writeup</strong></em></a></li>
+  <li>🎐 <a href="https://blog.rei.my.id/posts/142/dawgctf-2026-locksmith-osint-writeup/"><em><strong>DawgCTF 2026 - Locksmith - OSINT Writeup</strong></em></a></li>
+  <li>🎐 <a href="https://blog.rei.my.id/posts/143/dawgctf-2026-owo-osint-writeup/"><em><strong>DawgCTF 2026 - owo? - OSINT Writeup</strong></em></a></li>
+  <li>🎐 <a href="https://blog.rei.my.id/posts/141/dawgctf-2026-computer-repair-iii-osint-writeup/"><em><strong>DawgCTF 2026 - Computer Repair III - OSINT Writeup</strong></em></a></li>
+  <li>🎐 <a href="https://blog.rei.my.id/posts/144/dawgctf-2026-the-lookouts-legend-osint-writeup/"><em><strong>DawgCTF 2026 - The Lookout's Legend - OSINT Writeup</strong></em></a></li>
+  <li>🎐 <a href="https://blog.rei.my.id/posts/145/dawgctf-2026-plane-spotting-pt-1-osint-writeup/"><em><strong>DawgCTF 2026 - Plane Spotting Pt. 1 - OSINT Writeup</strong></em></a></li>
+  <li>🎐 <a href="https://blog.rei.my.id/posts/146/dawgctf-2026-plane-spotting-pt-3-osint-writeup/"><em><strong>DawgCTF 2026 - Plane Spotting Pt. 3 - OSINT Writeup</strong></em></a></li>
+  <li>🎐 <a href="https://blog.rei.my.id/posts/119/texsaw-2026-you-snooze-you-loze-osint-writeup/"><em><strong>TexSaw 2026 - You Snooze You Loze - OSINT Writeup</strong></em></a></li>
+  <li>🎐 <a href="https://blog.rei.my.id/posts/128/texsaw-2026-a-different-side-channel-forensics-writeup/"><em><strong>TexSaw 2026 - A Different Side Channel - Forensics Writeup</strong></em></a></li>
+</ul>
 <!-- BLOG_RSS_END -->
+
 <img src="img/1ae7e7d8aebf35a5907f735ab00adc42.png" width="270" align="right" />
 <br/>
 <img src="img/8aac9cba43d26fc93bd38158f016169e.png" width="500" /><br/>
