@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css/github-markdown.min.css">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2420,50:8B6144,100:C4A580&height=200&section=header&text=XiaoQiWUMI%20%E2%9C%A8&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20and%20GNU/Linux%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
 <div>  
 <img width="337" src="img/xiaoqitoxiamn.jpg" align=right />
@@ -11,22 +10,22 @@
 <h1>Hi there, I'm XiaoQi「小祁」^_^</h1>  
 <h3>About Me</h3>
 
+<ul> 
+<li>Name: XiaoQi「小祁」.</li> 
 
-- Name: **XiaoQi「小祁」**.
+<li>From: A mysterious place in China♪───Ｏ（≧∇≦）Ｏ───♪.</li> 
 
-- From: **A mysterious place in China♪───Ｏ（≧∇≦）Ｏ────♪**.
+<li>Day job: I write code occasionally and have a little experience with many different things (●°u°●) 」.</li> 
 
-- Day job: **I write code occasionally and have a little experience with many different things (●°u°●) 」**.
+<li>Currently: I mainly use Python, and sometimes also look into other technologies ~miao~.</li> 
 
-- Currently: **I mainly use Python, and sometimes also look into other technologies ~miao~**.
+<li>Also:[@linuxuigm](https://github.com/linuxuigm), **GNU/Linux** Enthusiast，Cybersecurity Director at Yexi Network Technology.</li> 
 
-- Also:[@linuxuigm](https://github.com/linuxuigm), **GNU/Linux** Enthusiast，Cybersecurity Director at Yexi Network Technology.
+<li>Tech Stack:Python · PyCharm · VS Code · Git · txt · Vim · Markdown·and so on……</li> 
 
-- Tech Stack:Python · PyCharm · VS Code · Git · txt · Vim · Markdown·and so on……
+<li>About my socials: I'm not very good at bragging, but you're very welcome to chat with me Whether it's about technology or daily life, I'll reply seriously when I see.</li> 
 
-- About my socials: I'm not very good at bragging, but you're very welcome to chat with me Whether it's about technology or daily life, I'll reply seriously when I see.
-
--！！ My language usage is shown in the pie chart on the right.
+<li>！！ My language usage is shown in the pie chart on the right.</li> 
 
 <img src="img/a84b298cb86ff8a3b9cc6ca0875bc650.png" align="right" width="290" />
 <br/>
