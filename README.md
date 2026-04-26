@@ -23,7 +23,7 @@
 
 <li>Currently: I mainly use Python, and sometimes also look into other technologies ~miao~.</li> 
 
-<li>Also:[@linuxuigm](https://github.com/linuxuigm), **GNU/Linux** Enthusiast，Cybersecurity Director at Yexi Network Technology.</li> 
+<li>Also: <a href="https://github.com/linuxuigm">@linuxuigm</a>, **GNU/Linux** Enthusiast，Cybersecurity Director at Yexi Network Technology.</li> 
 
 <li>Tech Stack:Python · PyCharm · VS Code · Git · txt · Vim · Markdown·and so on……</li> 
 
