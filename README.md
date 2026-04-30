@@ -74,3 +74,9 @@
 </p>
 <img src="img/XiaoQi2.jpg" width="100%" align="center" />
 </div>
+
+<img 
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:93c5fd,50:c4b5fd,100:f9a8d4&height=100&section=footer&text=You%20made%20my%20day%20by%20being%20here&font=SE259&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=80" 
+  alt="XiaoQiWUMI Footer" 
+  style="max-width: 100%; height: auto; display: block; margin: 0 auto;" 
+/>
