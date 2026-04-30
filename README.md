@@ -42,7 +42,7 @@
 <ul>    
 <li>E-mail:401817506@qq.com</li>    
 <li>X: @XiaoQi94WUMI</li>    
-<li>微信: Umi620_wumi</li>    
+<li>E-mail:xiaoqi520umi@gmail.com</li>    
 <li>QQ: 3565502112</li>  
 </ul>
 
@@ -64,7 +64,7 @@
 </ul>
 <!-- BLOG_RSS_END -->
 
-<img src="img/1ae7e7d8aebf35a5907f735ab00adc42.png" width="270" align="right" />
+<img src="img/1ae7e7d8aebf35a5907f735ab00adc42.png" width="240" align="right" />
 <br/>
 <img src="img/8aac9cba43d26fc93bd38158f016169e.png" width="500" /><br/>
 <sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : 401817506@qq.com</sub>
